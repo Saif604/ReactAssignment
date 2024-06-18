@@ -10,7 +10,7 @@ const Label = styled.label`
 `;
 const InputContainer = styled.div`
     display: grid;
-    grid-template-columns: 8rem 8rem;
+    grid-template-columns: 20% 20%;
     gap: 1rem;
 `
 const InputComp = styled.input`

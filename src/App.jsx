@@ -7,11 +7,11 @@ import styled from "styled-components";
 const Container = styled.div`
   display: grid;
   grid-template-columns: auto 1fr;
-  gap: 2rem;
+  gap: 1rem;
 `;
 
 const Sidebar = styled.div`
-  padding: 1.5rem;
+  padding: 1.5rem 1rem;
   border-right: 1px solid #ddd;
 `;
 

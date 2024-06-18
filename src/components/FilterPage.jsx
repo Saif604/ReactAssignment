@@ -54,7 +54,7 @@ const FilterPage = ({ selectedFilter}) => {
           })}
           <ButtonContainer>
             <button type="submit" className="btn inactive">
-              Previous
+              Prev
             </button>
             <button type="submit" className="btn">
               Next
